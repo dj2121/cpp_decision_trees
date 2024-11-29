@@ -1,7 +1,3 @@
-//Roll Number: 19CS60R47
-//Name: Jhala Divyarajsinh Hanubha
-//Assignment Number: 1
-
 #include <iostream>
 #include<iomanip>
 #include <fstream>
